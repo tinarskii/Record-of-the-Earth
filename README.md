@@ -1,4 +1,4 @@
-# Record-of-the-Earth
+# Record of the Earth
 Record your video, sound, image etc. of the Earth and add it here!
 
 # Rules
