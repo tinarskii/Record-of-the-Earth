@@ -1,2 +1,5 @@
-# Sound-of-the-Earth
-Record your Earth sound (Cities, Nature, etc.) and add it here
+# Record-of-the-Earth
+Record your video, sound, image etc. of the Earth and add it here!
+
+# Rules
+Make sure it's your work and not by someone else
